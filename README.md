@@ -5,7 +5,7 @@ josephb613/josephb613 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <!-- Your title -->
-## Hi, I'm joseph, a Developer front 🚀 from DRC.
+## Hi, I'm joseph Developer Front End 🚀 from DRC.
 
 <h3>Things I code with</h3>
 <p>
@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 - 👨🏽‍💻 I’m currently working on ;
 - 🌱 I’m currently learning Flutter and Dart; 

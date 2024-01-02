@@ -93,12 +93,14 @@ I created these images, feel free to use them.
 
 <!-- Its main projects -->
 <p align="center">
-<!--   <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
-  </a> -->
+  
+<!--  <a href="https://github.com/onimur/handle-path-oz">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" /> </a> -->
+  
 <!--   <a href="https://github.com/onimur/circleci-github-changelog-generator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
   </a> -->
+  
 </p>
 
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
+

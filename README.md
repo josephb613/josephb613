@@ -106,3 +106,11 @@ https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg
 
 
 <a href="https://wakatime.com/@018ceef6-473e-4d9b-97a5-f677fc2be3d9"><img src="https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg" alt="Total time coded since Jan 9 2024" /></a>
+
+{<img src="https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg" alt="wakatime" />}[https://wakatime.com/@018ceef6-473e-4d9b-97a5-f677fc2be3d9]
+
+image:https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg["wakatime", link="https://wakatime.com/@018ceef6-473e-4d9b-97a5-f677fc2be3d9"]
+
+.. image:: https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg
+    :target: https://wakatime.com/@018ceef6-473e-4d9b-97a5-f677fc2be3d9
+    =for html <a href="https://wakatime.com/@018ceef6-473e-4d9b-97a5-f677fc2be3d9"><img src="https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg"></a>

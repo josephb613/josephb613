@@ -14,6 +14,8 @@ You can click the Preview link to take a look at your changes.
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  
+<a href="https://wakatime.com/@018ceef6-473e-4d9b-97a5-f677fc2be3d9"><img src="https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg"></a>
 
 
 </p>
@@ -98,6 +100,9 @@ I created these images, feel free to use them.
   
 </p>
 
-=for html <a href="https://wakatime.com/@018ceef6-473e-4d9b-97a5-f677fc2be3d9"><img src="https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg"></a>
+https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg
+
+[![wakatime](https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg)](https://wakatime.com/@018ceef6-473e-4d9b-97a5-f677fc2be3d9)
 
 
+<a href="https://wakatime.com/@018ceef6-473e-4d9b-97a5-f677fc2be3d9"><img src="https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg" alt="Total time coded since Jan 9 2024" /></a>

@@ -15,8 +15,6 @@ You can click the Preview link to take a look at your changes.
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   
 <a href="https://wakatime.com/@018ceef6-473e-4d9b-97a5-f677fc2be3d9"><img src="https://wakatime.com/badge/user/018ceef6-473e-4d9b-97a5-f677fc2be3d9.svg"></a>
-
-
 </p>
 
 <!-- Your badges

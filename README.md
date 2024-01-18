@@ -74,7 +74,6 @@ I created these images, feel free to use them.
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
-
 <!-- Its main projects -->
 <p align="center">
   

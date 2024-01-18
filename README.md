@@ -75,8 +75,6 @@ I created these images, feel free to use them.
   </a>
 </p>
 
----
-
 <!-- Its main projects -->
 <p align="center">
   

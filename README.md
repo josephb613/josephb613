@@ -2,7 +2,6 @@
 josephb613/josephb613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <!-- Your title -->
 ## Hi, I'm joseph Developer Front End 🚀 DRC🇨🇩
 <h3>Things I code with</h3>

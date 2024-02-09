@@ -50,7 +50,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <!--     <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" /> -->
   </a>
 
-  
+  <a href="https://app.daily.dev/basix"><img src="https://api.daily.dev/devcards/6c9120e556f44176b8b05dedc095cc0c.png?r=t0v" width="400" alt="joseph's Dev Card"/></a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zon

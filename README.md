@@ -31,7 +31,8 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 
-  <a href="https://app.daily.dev/basix"><img src="https://api.daily.dev/devcards/6c9120e556f44176b8b05dedc095cc0c.png?r=t0v" width="400" alt="joseph's Dev Card"/></a>
+  <a href="https://app.daily.dev/basix">
+  <img src="https://api.daily.dev/devcards/6c9120e556f44176b8b05dedc095cc0c.png?r=t0v" width="100" alt="joseph's Dev Card"/></a>
 
 
 
